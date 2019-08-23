@@ -3,7 +3,7 @@
  This mod plays the Knight rider TV show (tm CBS/Stu phillips) opening theme when player drives the car.
  Compatible with other car mods except similar mods like Deja Vu song.
 
-Credit to [pawndev](github.com/pawndev) for the idea and help
+Credit to @pawndev for the idea and help
 
 Remarks welcome here: **[Github issues](https://github.com/jocker-il/JKIL-KnightRider/issues)**
  
